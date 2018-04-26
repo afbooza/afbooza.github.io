@@ -100,7 +100,7 @@ a {
   padding: 200px 0;
   text-align: center;
   color: white;
-  background: url("../img/bg-palms.jpg") no-repeat bottom center scroll;
+  background: url("../img/bg-palms.JPG") no-repeat bottom center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -148,7 +148,7 @@ a {
 
 .download-section {
   color: white;
-  background: url("../img/bg-mtns.jpg") no-repeat center center scroll;
+  background: url("../img/bg-mtns.JPG") no-repeat center center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
