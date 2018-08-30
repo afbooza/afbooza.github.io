@@ -2,5 +2,17 @@
     list-style:none;    
 }
 .experience-section{
-    background-color:green;
+    background-color:#42DCA3;
+}
+#experience p{
+    margin:3px;
+    padding:3px;
+}
+#experience h6{
+    margin:3px;
+    color:black
+}
+#experience h3{
+    margin:3px;
+    color:black
 }
