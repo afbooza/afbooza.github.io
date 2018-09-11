@@ -17,3 +17,13 @@
     margin:3px;
     color:black
 }
+a.nostyle{
+    text-decoration: inherit;
+    color: inherit;
+    
+}
+a.nostyle:visited{
+    text-decoration: inherit;
+    color: inherit;
+    
+}
